@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/prakash-saran/reactproject.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/prakash-saran/reactproject.git/static/js/main.7a20ae69.chunk.js",
+    "main.js.map": "/prakash-saran/reactproject.git/static/js/main.7a20ae69.chunk.js.map",
+    "runtime-main.js": "/prakash-saran/reactproject.git/static/js/runtime-main.880ab5b4.js",
+    "runtime-main.js.map": "/prakash-saran/reactproject.git/static/js/runtime-main.880ab5b4.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/prakash-saran/reactproject.git/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f0ab581f.chunk.js": "/prakash-saran/reactproject.git/static/js/2.f0ab581f.chunk.js",
+    "static/js/2.f0ab581f.chunk.js.map": "/prakash-saran/reactproject.git/static/js/2.f0ab581f.chunk.js.map",
+    "static/js/3.ee698ad8.chunk.js": "/prakash-saran/reactproject.git/static/js/3.ee698ad8.chunk.js",
+    "static/js/3.ee698ad8.chunk.js.map": "/prakash-saran/reactproject.git/static/js/3.ee698ad8.chunk.js.map",
+    "index.html": "/prakash-saran/reactproject.git/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/prakash-saran/reactproject.git/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/prakash-saran/reactproject.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f0ab581f.chunk.js.LICENSE.txt": "/prakash-saran/reactproject.git/static/js/2.f0ab581f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.880ab5b4.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f0ab581f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7a20ae69.chunk.js"
+  ]
+}
